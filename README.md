@@ -3,7 +3,7 @@
 Un simulador de jardín estilo "pixel art" desarrollado con **HTML5 Canvas** y **JavaScript Puro (Vanilla JS)**. Este proyecto implementa un motor de renderizado personalizado sin dependencias externas.
 
 ## 🎮 Demo en Vivo
-¡Juega aquí!: [https://lafarch.github.io/jardin-pixelado]
+¡Juega aquí!: https://lafarch.github.io/jardin-pixelado
 
 ## ✨ Características Principales
 
