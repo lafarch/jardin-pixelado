@@ -23,7 +23,7 @@ Un simulador de jardín estilo "pixel art" desarrollado con **HTML5 Canvas** y *
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/lafarch/jardin-pixelado.git](https://github.com/lafarch/jardin-pixelado.git)
+    git clone https://github.com/lafarch/jardin-pixelado.git
     ```
 2.  Navega a la carpeta:
     ```bash
